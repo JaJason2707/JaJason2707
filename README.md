@@ -17,7 +17,7 @@
 
 ## What I Build
 
-* **[Docker-ELK]([https://github.com/thangphan205/netconsole](https://github.com/JaJason2707/docker-elk-custom-ml-1))** — Web UI for switching/routing ops (ARP, MAC, interface config) ![GitHub stars](https://img.shields.io/github/stars/thangphan205/netconsole?style=social)
+* **[Docker-ELK]([https://github.com/JaJason2707/docker-elk-custom-ml-1])** — Web UI for switching/routing ops (ARP, MAC, interface config) ![GitHub stars](https://img.shields.io/github/stars/thangphan205/netconsole?style=social)
 * **[tacacs-ng-ui](https://github.com/thangphan205/tacacs-ng-ui)** — Modern UI for TACACS+ with AAA auditing, dashboards, SIEM integration ![GitHub stars](https://img.shields.io/github/stars/thangphan205/tacacs-ng-ui?style=social)
 
 
@@ -38,4 +38,4 @@
 
 ## Contact
 
-* 📧 Email: [thang@9ping.cloud](mailto:thang@9ping.cloud)
+* 📧 Email: [phat73906@gmail.com](mailto:phat73906@gmail.com)
