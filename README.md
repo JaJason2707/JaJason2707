@@ -17,10 +17,9 @@
 
 ## What I Build
 
-* **[netconsole](https://github.com/thangphan205/netconsole)** — Web UI for switching/routing ops (ARP, MAC, interface config) ![GitHub stars](https://img.shields.io/github/stars/thangphan205/netconsole?style=social)
+* **[Docker-ELK]([https://github.com/thangphan205/netconsole](https://github.com/JaJason2707/docker-elk-custom-ml-1))** — Web UI for switching/routing ops (ARP, MAC, interface config) ![GitHub stars](https://img.shields.io/github/stars/thangphan205/netconsole?style=social)
 * **[tacacs-ng-ui](https://github.com/thangphan205/tacacs-ng-ui)** — Modern UI for TACACS+ with AAA auditing, dashboards, SIEM integration ![GitHub stars](https://img.shields.io/github/stars/thangphan205/tacacs-ng-ui?style=social)
-* **[network-thuc-chien](https://github.com/thangphan205/network-thuc-chien)** — Network engineering tutorials (Vietnamese) ![GitHub stars](https://img.shields.io/github/stars/thangphan205/network-thang-thuc-chien?style=social)
-* **[containerlab-demo](https://github.com/thangphan205/containerlab-demo)** — Containerlab labs for network topologies, Linux services, and troubleshooting scenarios ![GitHub stars](https://img.shields.io/github/stars/thangphan205/containerlab-demo?style=social)
+
 
 ---
 
